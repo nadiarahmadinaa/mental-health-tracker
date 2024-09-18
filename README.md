@@ -1,5 +1,5 @@
-Nama : Nadia Rahmadina Aristawati
-NPM : 2306207972
+Nama : Ramy Ardya Ramadhan
+NPM : 2306210393
 Kelas : PBP D
-Hobi : Masak
+Hobi : Main
 Jurusan : Ilmu Komputer
